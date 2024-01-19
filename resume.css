@@ -1,0 +1,38 @@
+.parent {
+    display: grid;
+    grid-template-columns: 30% 70%;
+
+}
+
+.colfront{
+    background-color: rgb(139, 179, 141);
+    color: rgb(41, 43, 41);
+    border: 5px solid rgb(43, 107, 144);
+    border-right: none;
+}
+.colback{
+    background-color: rgb(71, 78, 72);
+    color: rgb(229, 240, 225);
+    margin-left: 2px;
+    border: 5px solid rgb(43,
+        107,
+        144);
+    border-left: none;
+    
+}
+.profile{
+    background-color: rgb(40, 38, 37);
+        color: rgb(255, 255, 255);
+}
+h3,
+h5{
+    font-family:"PT Serif";
+    background-color: rgb(40, 38, 37);
+    color: rgb(255, 255, 255);
+}
+.container{
+    font-weight: bold;    
+}
+h1{
+    font-family:"Playfair";
+}
